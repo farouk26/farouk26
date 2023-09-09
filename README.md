@@ -1,15 +1,15 @@
 # About Me :
 # <h1>Farouk Zemmouri - Front-End Developer</h1>
-<br><p style= "font-size: 18px; line-height: 45px;">Hello World! , I'm an aspiring front-end developer with a strong passion for creating visually appealing and user-friendly web applications. I'm dedicated to the world of web development and am constantly seeking opportunities to learn and grow in this exciting field.</p>
-<br><p style= "font-size: 18px;">Welcome to my GitHub playground where I share my coding journey and web projects.</p><br>
+<br><p style= "font-size: 20px; line-height: 45px;">Hello World! , I'm an aspiring front-end developer with a strong passion for creating visually appealing and user-friendly web applications. I'm dedicated to the world of web development and am constantly seeking opportunities to learn and grow in this exciting field.</p>
+<br><p style= "font-size: 20px;">Welcome to my GitHub playground where I share my coding journey and web projects.</p><br>
 ![Web Developer GIF](https://wallpaperaccess.com/full/4910984.gif)<br>
 
 <h2>What You'll Find Here</h2><br>
-<li style= "font-size: 18px;">🎨 Front-End projects showcasing my design and coding skills</li><br>
-<li style= "font-size: 18px;">🌐 Web development experiments and practice websites</li><br>
-<li style= "font-size: 18px;">📚 Documentation of my learning journey</li><br>
+<li style= "font-size: 20px;">🎨 Front-End projects showcasing my design and coding skills</li><br>
+<li style= "font-size: 20px;">🌐 Web development experiments and practice websites</li><br>
+<li style= "font-size: 20px;">📚 Documentation of my learning journey</li><br>
 <h2>Let's Connect</h2>
-<p style= "font-size: 18px;">📫 Don't hesitate to connect with me via LinkedIn if you're interested in collaborating, I'm always ready to network with fellow enthusiasts and professionals in this field.</p>
+<p style= "font-size: 20px;">📫 Don't hesitate to connect with me via LinkedIn if you're interested in collaborating, I'm always ready to network with fellow enthusiasts and professionals in this field.</p>
 
 # <h2>Socials</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faroukisme) 
