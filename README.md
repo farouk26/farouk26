@@ -4,7 +4,7 @@
 <br><p style= "font-size: 18px;">Welcome to my GitHub playground where I share my coding journey and web projects.</p><br>
 ![Web Developer GIF](https://wallpaperaccess.com/full/4910984.gif)<br>
 
-<br><h2>What You'll Find Here</h2><br>
+<h2>What You'll Find Here</h2><br>
 <li style= "font-size: 18px;">🎨 Front-End projects showcasing my design and coding skills</li><br>
 <li style= "font-size: 18px;">🌐 Web development experiments and practice websites</li><br>
 <li style= "font-size: 18px;">📚 Documentation of my learning journey</li><br>
