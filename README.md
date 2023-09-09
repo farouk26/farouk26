@@ -2,7 +2,7 @@
 # <h1>Farouk Zemmouri - Front-End Developer</h1>
 <br><p style= "font-size: 18px; line-height: 45px;">Hello World! , I'm an aspiring front-end developer with a strong passion for creating visually appealing and user-friendly web applications. I'm dedicated to the world of web development and am constantly seeking opportunities to learn and grow in this exciting field.</p>
 <br><p style= "font-size: 18px;">Welcome to my GitHub playground where I share my coding journey and web projects.</p><br>
-<br>![Web Developer GIF](https://wallpaperaccess.com/full/4910984.gif)<br>
+![Web Developer GIF](https://wallpaperaccess.com/full/4910984.gif)<br>
 
 <br><h2>What You'll Find Here</h2><br>
 <li style= "font-size: 18px;">🎨 Front-End projects showcasing my design and coding skills</li><br>
