@@ -62,12 +62,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/farouk26/farouk26/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Lets Connect</h2>
 
 ###
@@ -97,5 +91,9 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=farouk26.farouk26&left_color=grey"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/farouk26/farouk26/output/snake.svg" alt="Snake animation" />
 
 ###
