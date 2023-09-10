@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Tech Skills</h2>
+<h2 align="center">Tech Skills</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left">Github Stats</h2>
+<h2 align="center">Github Stats</h2>
 
 ###
 
