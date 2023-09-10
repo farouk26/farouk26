@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Hello World! , I'm an aspiring front-end developer with a strong passion for creating visually appealing and user-friendly web applications. I'm dedicated to the world of web development and am constantly seeking opportunities to learn and grow in this exciting field.<br><br>Welcome to my GitHub playground where I share my coding journey and web projects.</p>
+<p align="center" style="font-size= 20px;">Hello World! , I'm an aspiring front-end developer with a strong passion for creating visually appealing and user-friendly web applications. I'm dedicated to the world of web development and am constantly seeking opportunities to learn and grow in this exciting field.<br><br>Welcome to my GitHub playground where I share my coding journey and web projects.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🎨 Front-End projects showcasing my design and coding skills<br><br>🌐 Web development experiments and practice websites<br><br>📚 Documentation of my learning journey</p>
+<p align="left" style="font-size= 20px;">🎨 Front-End projects showcasing my design and coding skills<br><br>🌐 Web development experiments and practice websites<br><br>📚 Documentation of my learning journey</p>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<p align="left">📫 Don't hesitate to connect with me via LinkedIn if you're interested in collaborating, I'm always ready to network with fellow enthusiasts and professionals in this field.</p>
+<p align="left" style="font-size= 20px;">📫 Don't hesitate to connect with me via LinkedIn if you're interested in collaborating, I'm always ready to network with fellow enthusiasts and professionals in this field.</p>
 
 ###
 
