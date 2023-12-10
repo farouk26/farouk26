@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
 
-<br>
 
 <h3 align="center">Front-End Web Developer with a passion for crafting user-friendly and visually appealing websites. Proficient in JavaScript, React.js, Next.js & Firebase, with a keen eye for detail and a dedication to delivering a seamless user experience. I thrive in collaborative environments and have a strong ability to transform design concepts into responsive and interactive web applications. Constantly staying updated with the latest web development trends and technologies to ensure cutting-edge solutions.</p>
 
