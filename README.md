@@ -1,14 +1,6 @@
-<div align="center">
-  <img height="220" src="https://media.giphy.com/media/8SUoMx6RikUgpbcH9J/giphy.gif"  />
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&fontColor=f1faee&height=300&section=header&text=Farouk%20Zemmouri&fontSize=90&capsule_render&animation=fadeIn&fontAlignY=40&desc=Front-End%20Web%20Developer.&fontAlignY=80)
 
-###
-
-<h1 align="center">Farouk Zemmouri - Front-End Developer</h1>
-
-###
-
-<h2 align="center">About Me :</h2>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontSize=26&fontColor=950306&fontAlign=50&animation=twinkling)
 
 ###
 
@@ -16,15 +8,8 @@
 
 ###
 
-<h2 align="center">What You'll Find Here :</h2>
 
-###
-
-<p align="left" style="font-size= 20px;">🎨 Front-End projects showcasing my design and coding skills<br><br>🌐 Web development experiments and practice websites<br><br>📚 Documentation of my learning journey</p>
-
-###
-
-<h2 align="center">Tech Skills</h2>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Tech%20Skills&fontSize=26&fontColor=950306&fontAlign=50&animation=twinkling)
 
 ###
 
@@ -52,17 +37,20 @@
 
 ###
 
-<h2 align="center">Github Stats</h2>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Github%20Stats&fontSize=26&fontColor=950306&fontAlign=50&animation=twinkling)
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=farouk26&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=farouk26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farouk26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=farouk26&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=20&order=3" height="200" alt="streak graph"  />
 </div>
+
 
 ###
 
-<h2 align="center">Lets Connect</h2>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Let's%20Connect&fontSize=26&fontColor=950306&fontAlign=50&animation=twinkling)
 
 ###
 
@@ -82,9 +70,9 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/QxRphIG9pDhDproNwL/giphy.gif"  />
-</div>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&height=100&section=footer"/>
+</p>
 
 ###
 
