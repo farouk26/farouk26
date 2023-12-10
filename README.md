@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&fontColor=f1faee&height=300&section=header&text=Farouk%20Zemmouri&fontSize=90&capsule_render&animation=fadeIn&fontAlignY=40&desc=Front-End%20Web%20Developer.&fontAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&fontColor=f1faee&height=300&section=header&text=Farouk%20Zemmouri&fontSize=60&capsule_render&animation=fadeIn&fontAlignY=40&desc=Front-End%20Web%20Developer.&fontAlignY=80)
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontSize=26&fontColor=950306&fontAlign=50&animation=twinkling)
 
