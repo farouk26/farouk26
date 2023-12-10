@@ -42,12 +42,9 @@
 ###
 
 <div align="center">
-<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=farouk26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-</div>
-<div align="right">
-    <img src="https://streak-stats.demolab.com?user=farouk26&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=20&order=3" height="200" alt="streak graph"  />
-</div>
+
+  <img src="https://streak-stats.demolab.com?user=farouk26&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=20&order=3" height="200" alt="streak graph"  />
 </div>
 
 
