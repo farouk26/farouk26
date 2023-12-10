@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center" style="font-size= 20px;">Hello World! , I'm an aspiring front-end developer with a strong passion for creating visually appealing and user-friendly web applications. I'm dedicated to the world of web development and am constantly seeking opportunities to learn and grow in this exciting field.<br><br>Welcome to my GitHub playground where I share my coding journey and web projects.</p>
+<p align="center" style="font-size= 20px;">Front-End Web Developer with a passion for crafting user-friendly and visually appealing websites. Proficient in JavaScript, React.js, Next.js & Firebase, with a keen eye for detail and a dedication to delivering a seamless user experience. I thrive in collaborative environments and have a strong ability to transform design concepts into responsive and interactive web applications. Constantly staying updated with the latest web development trends and technologies to ensure cutting-edge solutions.</p>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left" style="font-size= 20px;">📫 Don't hesitate to connect with me via LinkedIn if you're interested in collaborating, I'm always ready to network with fellow enthusiasts and professionals in this field.</p>
+<p align="center" style="font-size= 20px;">Don't hesitate to connect with me via LinkedIn if you're interested in collaborating, I'm always ready to network with fellow enthusiasts and professionals in this field.</p>
 
 ###
 
