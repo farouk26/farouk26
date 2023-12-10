@@ -68,14 +68,12 @@
 
 ###
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&height=100&section=footer"/>
-</p>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=farouk26.farouk26&left_color=grey"  />
 </div>
 
 ###
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&height=100&section=footer"/>
+</p>
