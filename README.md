@@ -52,21 +52,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Let's%20Connect&fontSize=26&fontColor=950306&fontAlign=50&animation=twinkling)
 
-<br>
-
-<p align="center" style="font-size= 30px;">Don't hesitate to connect with me via LinkedIn if you're interested in collaborating, I'm always ready to network with fellow enthusiasts and professionals in this field.</p>
-
-<br>
-
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Socials&fontSize=26&fontColor=950306&fontAlign=50&animation=twinkling)
-
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/faroukisme/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faroukisme/) for potential collaborations. I welcome the opportunity to network with like-minded professionals in this field.
+
+---
+
 </div>
 
+<br>
 <br>
 
 <div align="center">
