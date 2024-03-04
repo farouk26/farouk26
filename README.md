@@ -55,7 +55,7 @@
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faroukisme/) for potential collaborations. I welcome the opportunity to network with like-minded professionals in this field.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faroukisme/) for potential collaborations. I welcome every opportunity to network with like-minded professionals in this field.
 
 ---
 
