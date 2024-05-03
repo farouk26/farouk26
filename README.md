@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
 
-<p align="center">I'm a Front-End Web Developer with a passion for crafting user-friendly and visually appealing websites. Proficient in JavaScript, Reactjs, Nextjs, TailwindCSS & Firebase, with a keen eye for detail and a dedication to delivering a seamless user experience. I thrive in collaborative environments and have a strong ability to transform design concepts into responsive and interactive web applications. Constantly staying updated with the latest web development trends and technologies to ensure cutting-edge solutions.</p>
+ <p align="center">I am a Front-End Web Developer with a passion for creating innovative and sustainable web solutions. I have recently completed a front-end web development bootcamp at Re:Coded, where I learned and applied HTML, CSS, JavaScript, React.js, Next.js, Git, and GitHub workflows. I have also worked on four projects with diverse teams, where I demonstrated my coding skills, problem-solving abilities, attention to detail, collaboration, communication, and project management. 
+
+My phytopathology background has given me a unique perspective on the natural world and the scientific domain, as well as research, data analysis, and presentation skills. I am adaptable, versatile, and eager to learn new technologies and trends in the web development industry. I am committed to delivering high-quality work and contributing to the success of your projects.</p>
 
 <br>
 
