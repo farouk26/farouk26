@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&fontColor=f1faee&height=300&section=header&text=Farouk%20Zemmouri&fontSize=60&capsule_render&animation=fadeIn&fontAlignY=40&desc=Front-End%20Web%20Developer.&fontAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=722F37&text=Farouk%20Zemmouri&reversal=false&textBg=false&fontSize=52&fontAlign=51&section=header&fontColor=EFDFBB)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontSize=30&fontColor=EFDFBB&fontAlign=50&animation=twinkling)
 
  ### <p align="center">I'm a Front-End Web Developer with a passion for creating innovative and sustainable web solutions. I have recently completed a front-end web development bootcamp at Re:Coded, where I learned and applied HTML, CSS, JavaScript, React.js, Next.js, Git, and GitHub workflows. I have also worked on four projects with diverse teams, where I demonstrated my coding skills, problem-solving abilities, attention to detail, collaboration, communication, and project management.</p>
  ### <p align="center">My phytopathology background has given me a unique perspective on the natural world and the scientific domain, as well as research, data analysis, and presentation skills. I am adaptable, versatile & eager to learn new technologies and trends in the web development industry. I am committed to delivering high-quality work and contributing to the success of your projects.</p>
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Tech%20Skills&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Tech%20Skills&fontSize=30&fontColor=EFDFBB&fontAlign=50&animation=twinkling)
 
 <br>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Github%20Stats&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Github%20Stats&fontSize=30&fontColor=EFDFBB&fontAlign=50&animation=twinkling)
 
 <br>
 
@@ -49,7 +49,7 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Let's%20Connect&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Let's%20Connect&fontSize=30&fontColor=EFDFBB&fontAlign=50&animation=twinkling)
 
 
 <div align="center">
@@ -72,5 +72,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faroukism
 <br>
 
 <h3 align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=722F37&reversal=false&textBg=false&fontSize=52&fontAlign=51&section=footer&fontColor=EFDFBB"/>
 </p>
